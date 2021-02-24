@@ -1,1 +1,1 @@
-# Deep-Neural-Net-for-Cat-Classifier
+# Deep-Neural-Net-for-Image-Classification
